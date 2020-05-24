@@ -28,8 +28,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Some screenshots of the game
 
-![alt text](tictactoe/src/assets/screenshots/TicTacToe-1.png)
+![alt text](https://github.com/Atalaia/TicTacToe-Angular-Nebular/blob/master/src/assets/screenshots/TicTacToe-1.png?raw=true)
 
-![alt text](tictactoe/src/assets/screenshots/TicTacToe-2.png)
+![alt text](https://github.com/Atalaia/TicTacToe-Angular-Nebular/blob/master/src/assets/screenshots/TicTacToe-2.png?raw=true)
 
-![alt text](tictactoe/src/assets/screenshots/TicTacToe-3.png)
+![alt text](https://github.com/Atalaia/TicTacToe-Angular-Nebular/blob/master/src/assets/screenshots/TicTacToe-3.png?raw=true)
